@@ -28,4 +28,3 @@ A Dartmouth College senior, double majoring in computer science and electrical e
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/vim-23121011?style=for-the-badge&logo=vim&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
